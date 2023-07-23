@@ -26,5 +26,5 @@ Fellow - Arewa Data Science Academy
                           
                       <a href="http://www.medium.com/https://medium.com/@bsani480" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a>
                           
-                      <a href="https://www.twitter.com/https://twitter.com/Bangiss_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>Top Repositories</b><div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />### Support Me<a
+                      <a href="https://www.twitter.com/https://twitter.com/Bangiss_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Support Me<a
                   href="https://www.buymeacoffee.com/Babangida"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
